@@ -36,7 +36,7 @@
   "types": "./dist/index.d.ts",
   "devDependencies": {
     "@sveltejs/adapter-static": "^3.0.8",
-    "@sveltejs/kit": "^2.21.1",
+    "@sveltejs/kit": "^2.49.5",
     "@sveltejs/package": "^2.3.11",
     "@sveltejs/vite-plugin-svelte": "^5.0.3",
     "@typescript-eslint/eslint-plugin": "^8.33.0",
